@@ -1,13 +1,5 @@
 # Process
 
-## Setting up a fresh user
-
-Create a new user with: 
-```
-sudo adduser config-setup
-```
-You can leave all the fields as default
-
 ## Zsh and Powerlevel10k
 
 ### Zsh Installation
